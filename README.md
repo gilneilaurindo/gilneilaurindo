@@ -48,12 +48,10 @@ Ao longo dos anos, adquiri uma sólida base de conhecimento e habilidades nessas
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🌐 Conecte-se Comigo
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilnei-laurindo&show_icons=true&hide=issues&theme=blueberry&bg_color=0000FF&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" alt="GitHub stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilnei-laurindo&layout=compact&theme=blueberry&bg_color=0000FF&title_color=00BFFF&text_color=FFFFFF" alt="Top Languages">
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-username/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-username/)
 
 ---
 
