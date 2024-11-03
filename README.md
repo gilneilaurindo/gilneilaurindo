@@ -48,10 +48,24 @@ Ao longo dos anos, adquiri uma sólida base de conhecimento e habilidades nessas
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 💻 Competências e Ferramentas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-username/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-username/)
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+    <p>Premiere Pro</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After Effects" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+    <p>After Effects</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/adobe-character-animator.png" alt="Character Animator" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+    <p>Character Animator</p>
+  </div>
+  <!-- Continue com os outros ícones... -->
+</div>
+
 
 ---
 
