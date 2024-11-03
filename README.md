@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://gilneilaurindo.github.io/images/Foto%20para%20perfil%20simples%20com%20borda%20azul%20.png" width="200" style="border-radius: 50%;" alt="Foto de Gilnei Laurindo">
 </div>
-
 <h1 align="center">👋 Olá, eu sou o Gilnei Laurindo!</h1>
 
 <p align="center">
