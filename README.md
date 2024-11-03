@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-profile-image-link.png" width="200" style="border-radius: 50%;" alt="Foto de Gilnei Laurindo">
+  <img src="[https://your-profile-image-link.png](https://files.mybeehome.com/images/medium/283403276_611119092479098127_774299010_990152202449674867.jpg)" width="200" style="border-radius: 50%;" alt="Foto de Gilnei Laurindo">
 </div>
 
 <h1 align="center">👋 Olá, eu sou o Gilnei Laurindo!</h1>
