@@ -31,15 +31,16 @@ Almejo contribuir ainda mais para projetos que desafiem minha expertise e foment
 
 ## 🔧 Competências e Ferramentas
 
-- <img src="https://img.icons8.com/fluency/24/000000/adobe-premiere-pro.png" style="filter: grayscale(1) brightness(2); border: 1px solid #EA77FF;" /> **Adobe Premiere Pro**: Edito vídeos com qualidade e fluidez.
-- <img src="https://img.icons8.com/fluency/24/000000/adobe-after-effects.png" style="filter: grayscale(1) brightness(2); border: 1px solid #9999FF;" /> **Adobe After Effects**: Crio animações e efeitos visuais impressionantes.
-- <img src="https://img.icons8.com/fluency/24/000000/adobe-character-animator.png" style="filter: grayscale(1) brightness(2); border: 1px solid #FFB6C1;" /> **Adobe Character Animator**: Animo personagens para experiências interativas.
-- <img src="https://img.icons8.com/fluency/24/000000/adobe-photoshop.png" style="filter: grayscale(1) brightness(2); border: 1px solid #31A8FF;" /> **Adobe Photoshop**: Aprimoro e retoco imagens com alta qualidade.
-- <img src="https://img.icons8.com/fluency/24/000000/davinci-resolve.png" style="filter: grayscale(1) brightness(2); border: 1px solid #FF9900;" /> **DaVinci Resolve**: Realizo correção de cores para uma estética visual atraente.
-- <img src="https://img.icons8.com/fluency/24/000000/sony-vegas.png" style="filter: grayscale(1) brightness(2); border: 1px solid #002783;" /> **Vegas Pro**: Edito vídeos, aplico efeitos e faço montagens precisas.
-- <img src="https://img.icons8.com/fluency/24/000000/vmix.png" style="filter: grayscale(1) brightness(2); border: 1px solid #00FF7F;" /> **vMix**: Produzo e transmito conteúdos ao vivo, como eventos e webinars.
-- <img src="https://img.icons8.com/fluency/24/000000/obs-studio.png" style="filter: grayscale(1) brightness(2); border: 1px solid #5C5CFF;" /> **OBS Studio**: Crio e transmito lives com configurações personalizadas e alta qualidade.
-- <img src="https://img.icons8.com/fluency/24/000000/visual-studio-code-2019.png" style="filter: grayscale(1) brightness(2); border: 1px solid #007ACC;" /> **Visual Studio Code**: Desenvolvo páginas web e customizo plataformas LMS para uma experiência de usuário excepcional.
+- <img src="https://img.icons8.com/fluency/24/000000/adobe-premiere-pro.png" style="border: 1px solid #EA77FF;" /> **Adobe Premiere Pro**: Edito vídeos com qualidade e fluidez.
+- <img src="https://img.icons8.com/fluency/24/000000/adobe-after-effects.png" style="border: 1px solid #9999FF;" /> **Adobe After Effects**: Crio animações e efeitos visuais impressionantes.
+- <img src="https://img.icons8.com/fluency/24/000000/adobe-character-animator.png" style="border: 1px solid #FFB6C1;" /> **Adobe Character Animator**: Animo personagens para experiências interativas.
+- <img src="https://img.icons8.com/fluency/24/000000/adobe-photoshop.png" style="border: 1px solid #31A8FF;" /> **Adobe Photoshop**: Aprimoro e retoco imagens com alta qualidade.
+- <img src="https://img.icons8.com/fluency/24/000000/davinci-resolve.png" style="border: 1px solid #FF9900;" /> **DaVinci Resolve**: Realizo correção de cores para uma estética visual atraente.
+- <img src="https://img.icons8.com/fluency/24/000000/sony-vegas.png" style="border: 1px solid #002783;" /> **Vegas Pro**: Edito vídeos, aplico efeitos e faço montagens precisas.
+- <img src="https://img.icons8.com/fluency/24/000000/vmix.png" style="border: 1px solid #00FF7F;" /> **vMix**: Produzo e transmito conteúdos ao vivo, como eventos e webinars.
+- <img src="https://img.icons8.com/fluency/24/000000/obs-studio.png" style="border: 1px solid #5C5CFF;" /> **OBS Studio**: Crio e transmito lives com configurações personalizadas e alta qualidade.
+- <img src="https://img.icons8.com/fluency/24/000000/visual-studio-code-2019.png" style="border: 1px solid #007ACC;" /> **Visual Studio Code**: Desenvolvo páginas web e customizo plataformas LMS para uma experiência de usuário excepcional.
+
 
 Ao longo dos anos, adquiri uma sólida base de conhecimento e habilidades nessas ferramentas, o que me permite entregar resultados de alta qualidade e superar as expectativas dos clientes.
 
