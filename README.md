@@ -2,6 +2,9 @@
   <img src="https://gilneilaurindo.github.io/images/Foto%20para%20perfil%20simples%20com%20borda%20azul%20.png" width="200" style="border-radius: 50%;" alt="Foto de Gilnei Laurindo">
 </div>
 <h1 align="center">👋 Olá, eu sou o Gilnei Laurindo!</h1>
+## 🎨 Sobre Mim
+
+Eu sou um **Designer Audiovisual** e **Desenvolvedor Frontend** apaixonado por criação de experiências interativas e conteúdo visual. Com ampla experiência em **streaming**, **edição de vídeo**, e **web design**, trabalho para entregar projetos que conectam inovação e design.
 
 <p align="center">
   🎨 Designer Audiovisual | 🌐 Desenvolvedor Frontend | 🎥 Especialista em Streaming
