@@ -1,69 +1,77 @@
 <div align="center">
-  <img src="https://your-image-link-here.png" width="200" alt="Foto de Gilnei Laurindo" style="border-radius:50%">
+  <img src="https://your-profile-image-link.png" width="200" style="border-radius: 50%;" alt="Foto de Gilnei Laurindo">
 </div>
 
-<h1 align="center">👋 Olá! Eu sou o Gilnei Laurindo!</h1>
+<h1 align="center">👋 Olá, eu sou o Gilnei Laurindo!</h1>
 
 <p align="center">
-  Designer Audiovisual | Desenvolvedor Frontend | Especialista em Streaming
+  🎨 Designer Audiovisual | 🌐 Desenvolvedor Frontend | 🎥 Especialista em Streaming
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gilnei-laurindo/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=00BFFF"></a>
-  <a href="https://github.com/seu_usuario"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&logoColor=FFFFFF"></a>
-  <a href="https://www.instagram.com/gilneycriative/"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=flat&logo=instagram&logoColor=E1306C"></a>
+  <a href="https://www.linkedin.com/in/gilnei-laurindo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://gilneilaurindo.github.io/"><img src="https://img.shields.io/badge/-Portfólio-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/gilneycriative/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## Sobre Mim
 
-- 🎥 **Experiência em streaming e edição de vídeo**: Especialista em lives corporativas e transmissão de eventos.
-- 🌐 **Desenvolvedor Frontend**: Trabalhando com HTML, CSS e JavaScript para criar interfaces interativas e dinâmicas.
-- 🎨 **Designer Audiovisual**: Apaixonado por transformar ideias em experiências visuais impactantes.
-- 💼 Atualmente trabalho na **Brisanet** como Designer e Assistente de RH.
+Olá, sou Gilnei e sou um profissional com mais de 10 anos de experiência na área de audiovisual. Atualmente, sou **Designer** na empresa **Brisanet**, onde aplico minha expertise em diversos projetos.
+
+Ao longo da minha carreira, desenvolvi habilidades sólidas em várias áreas, incluindo **lives corporativas**, **edição de fotos e vídeos** e **desenvolvimento de páginas web**. Também sou especialista em **customização de plataformas LMS**. Com mais de 7 anos na Brisanet, atualmente exerço funções como **Designer** e **Assistente de RH**, onde minha criatividade e capacidade de escuta ativa são essenciais.
+
+Meus conhecimentos avançados em **vMix** me permitem produzir conteúdos ao vivo de alto impacto, contribuindo significativamente para a comunicação e educação corporativa da empresa. Certificações em **boas práticas de videoaulas** e **Design Thinking** realçam minha busca contínua por aprimoramento e inovação. A segurança digital, garantida pela minha certificação da UniCesumar, é outro pilar do meu compromisso com a excelência.
+
+Almejo contribuir ainda mais para projetos que desafiem minha expertise e fomentem o crescimento coletivo.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🔧 Competências e Ferramentas
+
+- **Adobe Premiere Pro**: Edito vídeos com qualidade e fluidez.
+- **Adobe After Effects**: Crio animações e efeitos visuais impressionantes.
+- **Adobe Character Animator**: Animo personagens para experiências interativas.
+- **Adobe Photoshop**: Aprimoro e retoco imagens com alta qualidade.
+- **DaVinci Resolve**: Realizo correção de cores para uma estética visual atraente.
+- **Vegas Pro**: Edito vídeos, aplico efeitos e faço montagens precisas.
+- **vMix**: Produzo e transmito conteúdos ao vivo, como eventos e webinars.
+- **OBS Studio**: Crio e transmito lives com configurações personalizadas e alta qualidade.
+- **Visual Studio Code**: Desenvolvo páginas web e customizo plataformas LMS para uma experiência de usuário excepcional.
+
+Ao longo dos anos, adquiri uma sólida base de conhecimento e habilidades nessas ferramentas, o que me permite entregar resultados de alta qualidade e superar as expectativas dos clientes.
+
+---
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E">
-  <img src="https://img.shields.io/badge/-Photoshop-0D1117?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF">
-  <img src="https://img.shields.io/badge/-Premiere%20Pro-0D1117?style=flat-square&logo=adobe-premiere-pro&logoColor=9999FF">
-  <img src="https://img.shields.io/badge/-After%20Effects-0D1117?style=flat-square&logo=adobe-after-effects&logoColor=9999FF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilnei-laurindo&show_icons=true&hide=issues&theme=blueberry&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" alt="GitHub stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilnei-laurindo&layout=compact&theme=blueberry&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" alt="Top Languages">
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📚 Projetos Recentes
+
+- [**🎉 Calcule sua Festa**](https://github.com/seu_usuario/CalculeSuaFesta) - Plataforma completa para organizar eventos, calculando tudo de acordo com a duração e o número de convidados.
+- [**🏅 Desvendando Atletas**](https://github.com/seu_usuario/DesvendandoAtletas) - Um projeto sobre atletas brasileiros, exibindo dados detalhados em uma interface interativa.
+- 🌦️ **Clima em Tempo Real** - Um site de previsão do tempo com uma estética moderna, usando dados de uma API de clima.
+
+---
+
+## 🌐 Conecte-se Comigo!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark&hide=issues&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu_usuario&theme=dark&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="48%"/>
+  <a href="https://www.linkedin.com/in/gilnei-laurindo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://gilneilaurindo.github.io/"><img src="https://img.shields.io/badge/-Portfólio-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/gilneycriative/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ---
 
-## 🎮 Projetos em Destaque
-
-| Projeto | Descrição |
-|---------|-----------|
-| [🎉 Calcule sua Festa](https://github.com/seu_usuario/CalculeSuaFesta) | Plataforma para calcular itens de festa, com interface profissional e organizada. |
-| [🏅 Desvendando Atletas](https://github.com/seu_usuario/DesvendandoAtletas) | Projeto com informações sobre atletas brasileiros, com um visual dinâmico e interativo. |
-| 🌦️ **Site de Clima em Tempo Real** | Um site com design moderno, que exibe previsões de clima em tempo real. |
-
----
-
-## 📫 Contato
-
-Sinta-se à vontade para se conectar comigo e explorar o mundo do design, desenvolvimento e inovação!
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/gilnei-laurindo/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF"></a>
-  <a href="https://github.com/seu_usuario"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
-  <a href="https://www.instagram.com/gilneycriative/"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E1306C"></a>
+  <p>👾 Sempre criando e inovando. Vamos transformar ideias em realidade!</p>
 </div>
