@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gilnei-laurindo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://gilneilaurindo.github.io/"><img src="https://img.shields.io/badge/-Portfólio-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://gilneilaurindo.github.io/"><img src="https://img.shields.io/badge/-Portfólio-0000FF?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABFUlEQVR42mJcv27dv3//P2FlZeX5ZwBzwLkBqgZTgNkB8iVgplmTB4Bk0wE3o4ltOCLABNcRU4HKAAyxAKFvcTwHNCBVgIUgYrZAW7AkkBCsCeAPEGsQCkBoCsjlC5sBCMAYtjAN5ikPhBOAOdAGMgpAJyAJcAoxxwAIqgG4BaUF4GMLQ1woYg6gGhXwEYtoXYKIby1ArM/0wkyFuMXAAG2gdZYF6I8GBgYd5jQB5AAKQbI2DLAAh2ImDMADlsYZ9VGSxeBRz2AAnxtIiDQD2PyNmCJhYFoAWiY2DOAAA9bFIdmY2drBeDGyAxVJ6QDMi/MGCJjAC3sA+JJ6WBG0DrN8zUchEy7RmpWIGDgwM1LJgBuAuSASD6BEckDl4gBNUIAuYmoDF6E4z6A0SUigNlgBGpIp/gMl5p2sycDFAMAAAAASUVORK5CYII=&logoColor=white"></a>
   <a href="https://www.instagram.com/gilneycriative/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
@@ -48,8 +48,8 @@ Ao longo dos anos, adquiri uma sólida base de conhecimento e habilidades nessas
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilnei-laurindo&show_icons=true&hide=issues&theme=blueberry&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" alt="GitHub stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilnei-laurindo&layout=compact&theme=blueberry&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilnei-laurindo&show_icons=true&hide=issues&theme=blueberry&bg_color=0000FF&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" alt="GitHub stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilnei-laurindo&layout=compact&theme=blueberry&bg_color=0000FF&title_color=00BFFF&text_color=FFFFFF" alt="Top Languages">
 </div>
 
 ---
@@ -66,7 +66,7 @@ Ao longo dos anos, adquiri uma sólida base de conhecimento e habilidades nessas
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gilnei-laurindo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://gilneilaurindo.github.io/"><img src="https://img.shields.io/badge/-Portfólio-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://gilneilaurindo.github.io/"><img src="https://img.shields.io/badge/-Portfólio-0000FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABFUlEQVR42mJcv27dv3//P2FlZeX5ZwBzwLkBqgZTgNkB8iVgplmTB4Bk0wE3o4ltOCLABNcRU4HKAAyxAKFvcTwHNCBVgIUgYrZAW7AkkBCsCeAPEGsQCkBoCsjlC5sBCMAYtjAN5ikPhBOAOdAGMgpAJyAJcAoxxwAIqgG4BaUF4GMLQ1woYg6gGhXwEYtoXYKIby1ArM/0wkyFuMXAAG2gdZYF6I8GBgYd5jQB5AAKQbI2DLAAh2ImDMADlsYZ9VGSxeBRz2AAnxtIiDQD2PyNmCJhYFoAWiY2DOAAA9bFIdmY2drBeDGyAxVJ6QDMi/MGCJjAC3sA+JJ6WBG0DrN8zUchEy7RmpWIGDgwM1LJgBuAuSASD6BEckDl4gBNUIAuYmoDF6E4z6A0SUigNlgBGpIp/gMl5p2sycDFAMAAAAASUVORK5CYII=&logoColor=white"></a>
   <a href="https://www.instagram.com/gilneycriative/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
