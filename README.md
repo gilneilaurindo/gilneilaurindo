@@ -47,24 +47,50 @@ Almejo contribuir ainda mais para projetos que desafiem minha expertise e foment
 Ao longo dos anos, adquiri uma sólida base de conhecimento e habilidades nessas ferramentas, o que me permite entregar resultados de alta qualidade e superar as expectativas dos clientes.
 
 ---
+## 👾 Bem-vindo ao Meu Universo Criativo!
 
-## 💻 Competências e Ferramentas
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <p>Premiere Pro</p>
+<div style="position: relative; height: 300px; background-color: black; color: #00FFAB;">
+  <canvas id="matrix"></canvas>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+    <h1>Gilnei Laurindo</h1>
+    <p>Criação, Design e Tecnologia em um só lugar!</p>
   </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After Effects" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <p>After Effects</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/adobe-character-animator.png" alt="Character Animator" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <p>Character Animator</p>
-  </div>
-  <!-- Continue com os outros ícones... -->
 </div>
+
+<script>
+  // Efeito Matrix em JavaScript
+  const canvas = document.getElementById('matrix');
+  const ctx = canvas.getContext('2d');
+
+  canvas.width = window.innerWidth;
+  canvas.height = 300;
+
+  const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+  const fontSize = 16;
+  const columns = canvas.width / fontSize;
+
+  const drops = Array.from({ length: columns }).fill(1);
+
+  function drawMatrix() {
+    ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    ctx.fillStyle = "#00FFAB";
+    ctx.font = `${fontSize}px monospace`;
+
+    for (let i = 0; i < drops.length; i++) {
+      const text = letters[Math.floor(Math.random() * letters.length)];
+      ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+
+      if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
+        drops[i] = 0;
+      }
+      drops[i]++;
+    }
+  }
+
+  setInterval(drawMatrix, 50);
+</script>
 
 
 ---
