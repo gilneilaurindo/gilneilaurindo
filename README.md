@@ -37,9 +37,10 @@ Almejo contribuir ainda mais para projetos que desafiem minha expertise e foment
 - <img src="https://img.icons8.com/color/24/000000/adobe-photoshop.png" /> **Adobe Photoshop**: Aprimoro e retoco imagens com alta qualidade.
 - <img src="https://img.icons8.com/color/24/000000/davinci-resolve.png" /> **DaVinci Resolve**: Realizo correção de cores para uma estética visual atraente.
 - <img src="https://img.icons8.com/color/24/000000/sony-vegas.png" /> **Vegas Pro**: Edito vídeos, aplico efeitos e faço montagens precisas.
-- <img src="https://img.icons8.com/color/24/000000/vmix.png" /> **vMix**: Produzo e transmito conteúdos ao vivo, como eventos e webinars.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Vmix_logo.svg" width="24" /> **vMix**: Produzo e transmito conteúdos ao vivo, como eventos e webinars.
 - <img src="https://img.icons8.com/color/24/000000/obs-studio.png" /> **OBS Studio**: Crio e transmito lives com configurações personalizadas e alta qualidade.
 - <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png" /> **Visual Studio Code**: Desenvolvo páginas web e customizo plataformas LMS para uma experiência de usuário excepcional.
+
 
 
 
