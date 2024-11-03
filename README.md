@@ -1,66 +1,69 @@
-# 👋 Olá! Sou o Gilnei Laurindo
+<div align="center">
+  <img src="https://your-image-link-here.png" width="200" alt="Foto de Gilnei Laurindo" style="border-radius:50%">
+</div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F794&center=true&vCenter=true&width=500&lines=Designer+e+Frontend+Developer;Inovando+com+tecnologia+e+design;Transformando+ideias+em+experiências!)
+<h1 align="center">👋 Olá! Eu sou o Gilnei Laurindo!</h1>
 
----
+<p align="center">
+  Designer Audiovisual | Desenvolvedor Frontend | Especialista em Streaming
+</p>
 
-## 🚀 Sobre Mim
-
-🎨 **Designer e Desenvolvedor Frontend** apaixonado por criar experiências visuais modernas e funcionais. Atuo na **Brisanet** com foco em design intuitivo e desenvolvimento web, além de produzir conteúdo audiovisual e coordenar transmissões ao vivo. Estou em constante evolução e sempre explorando novas tecnologias para projetos interativos.
-
-🌐 **Conecte-se comigo** | [LinkedIn](https://www.linkedin.com/in/gilnei-laurindo/) | [Portfólio](https://gilneilaurindo.github.io/)
-
----
-
-## 💻 Tecnologias e Ferramentas
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
-![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gilnei-laurindo/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=00BFFF"></a>
+  <a href="https://github.com/seu_usuario"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&logoColor=FFFFFF"></a>
+  <a href="https://www.instagram.com/gilneycriative/"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=flat&logo=instagram&logoColor=E1306C"></a>
+</p>
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🧑‍💻 Sobre Mim
 
-| Projeto | Descrição |
-|---------|-----------|
-| [📊 Calcule sua Festa](https://github.com/seu_usuario/CalculeSuaFesta) | Uma plataforma completa que ajuda a calcular o necessário para seu evento, com interface amigável e organizada. |
-| [⚽ Desvendando Atletas](https://github.com/seu_usuario/DesvendandoAtletas) | Projeto que explora atletas brasileiros, com informações ricas e design inovador em cards. |
-| 🌦️ **Site de Clima em Tempo Real** | Um site que utiliza uma API de clima para mostrar previsão em tempo real, com um design inteligente. |
+- 🎥 **Experiência em streaming e edição de vídeo**: Especialista em lives corporativas e transmissão de eventos.
+- 🌐 **Desenvolvedor Frontend**: Trabalhando com HTML, CSS e JavaScript para criar interfaces interativas e dinâmicas.
+- 🎨 **Designer Audiovisual**: Apaixonado por transformar ideias em experiências visuais impactantes.
+- 💼 Atualmente trabalho na **Brisanet** como Designer e Assistente de RH.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E">
+  <img src="https://img.shields.io/badge/-Photoshop-0D1117?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF">
+  <img src="https://img.shields.io/badge/-Premiere%20Pro-0D1117?style=flat-square&logo=adobe-premiere-pro&logoColor=9999FF">
+  <img src="https://img.shields.io/badge/-After%20Effects-0D1117?style=flat-square&logo=adobe-after-effects&logoColor=9999FF">
+</div>
 
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical&hide=issues" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu_usuario&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark&hide=issues&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu_usuario&theme=dark&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="48%"/>
 </div>
 
 ---
 
-## 🌌 Visão do Perfil
-![Profile views](https://komarev.com/ghpvc/?username=seu_usuario&color=blueviolet)
+## 🎮 Projetos em Destaque
+
+| Projeto | Descrição |
+|---------|-----------|
+| [🎉 Calcule sua Festa](https://github.com/seu_usuario/CalculeSuaFesta) | Plataforma para calcular itens de festa, com interface profissional e organizada. |
+| [🏅 Desvendando Atletas](https://github.com/seu_usuario/DesvendandoAtletas) | Projeto com informações sobre atletas brasileiros, com um visual dinâmico e interativo. |
+| 🌦️ **Site de Clima em Tempo Real** | Um site com design moderno, que exibe previsões de clima em tempo real. |
 
 ---
 
-## 🧩 O que eu busco?
+## 📫 Contato
 
-Estou em busca de novos desafios e projetos que unam **design** e **tecnologia** para criar soluções inovadoras. Se você gosta de transformar ideias em projetos visuais e interativos, vamos colaborar!
-
----
+Sinta-se à vontade para se conectar comigo e explorar o mundo do design, desenvolvimento e inovação!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/seu_usuario/seu_usuario/main/wave.svg" width="100%">
+  <a href="https://www.linkedin.com/in/gilnei-laurindo/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF"></a>
+  <a href="https://github.com/seu_usuario"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
+  <a href="https://www.instagram.com/gilneycriative/"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E1306C"></a>
 </div>
-
-<details>
-<summary>👨‍💻 Clique aqui para ver mais detalhes sobre meus projetos</summary>
-
-| Projeto Avançado | Detalhes |
-|------------------|----------|
-| Projeto de Aquecimento Global | Criação de um projeto social, com dados ricos sobre as mudanças climáticas. |
-| MAPA de Gerenciamento de Memória | Trabalho acadêmico focado em memória para sistemas customizados. |
-| Blog de Eventos | Plataforma com carrossel animado e imagens clicáveis dos eventos realizados ao vivo. |
-
-</details>
