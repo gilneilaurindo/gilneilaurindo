@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gilnei-laurindo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://gilneilaurindo.github.io/"><img src="https://img.shields.io/badge/-Portfólio-0000FF?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABFUlEQVR42mJcv27dv3//P2FlZeX5ZwBzwLkBqgZTgNkB8iVgplmTB4Bk0wE3o4ltOCLABNcRU4HKAAyxAKFvcTwHNCBVgIUgYrZAW7AkkBCsCeAPEGsQCkBoCsjlC5sBCMAYtjAN5ikPhBOAOdAGMgpAJyAJcAoxxwAIqgG4BaUF4GMLQ1woYg6gGhXwEYtoXYKIby1ArM/0wkyFuMXAAG2gdZYF6I8GBgYd5jQB5AAKQbI2DLAAh2ImDMADlsYZ9VGSxeBRz2AAnxtIiDQD2PyNmCJhYFoAWiY2DOAAA9bFIdmY2drBeDGyAxVJ6QDMi/MGCJjAC3sA+JJ6WBG0DrN8zUchEy7RmpWIGDgwM1LJgBuAuSASD6BEckDl4gBNUIAuYmoDF6E4z6A0SUigNlgBGpIp/gMl5p2sycDFAMAAAAASUVORK5CYII=&logoColor=white"></a>
+  <a href="https://gilneilaurindo.github.io/"><img src="https://img.shields.io/badge/-Portfólio-0000FF?style=flat-square&logo=world&logoColor=white"></a>
   <a href="https://www.instagram.com/gilneycriative/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
@@ -31,15 +31,15 @@ Almejo contribuir ainda mais para projetos que desafiem minha expertise e foment
 
 ## 🔧 Competências e Ferramentas
 
-- **Adobe Premiere Pro**: Edito vídeos com qualidade e fluidez.
-- **Adobe After Effects**: Crio animações e efeitos visuais impressionantes.
-- **Adobe Character Animator**: Animo personagens para experiências interativas.
-- **Adobe Photoshop**: Aprimoro e retoco imagens com alta qualidade.
-- **DaVinci Resolve**: Realizo correção de cores para uma estética visual atraente.
-- **Vegas Pro**: Edito vídeos, aplico efeitos e faço montagens precisas.
-- **vMix**: Produzo e transmito conteúdos ao vivo, como eventos e webinars.
-- **OBS Studio**: Crio e transmito lives com configurações personalizadas e alta qualidade.
-- **Visual Studio Code**: Desenvolvo páginas web e customizo plataformas LMS para uma experiência de usuário excepcional.
+- <img src="https://img.icons8.com/color/24/000000/adobe-premiere-pro.png"/> **Adobe Premiere Pro**: Edito vídeos com qualidade e fluidez.
+- <img src="https://img.icons8.com/color/24/000000/adobe-after-effects.png"/> **Adobe After Effects**: Crio animações e efeitos visuais impressionantes.
+- <img src="https://img.icons8.com/color/24/000000/adobe-character-animator.png"/> **Adobe Character Animator**: Animo personagens para experiências interativas.
+- <img src="https://img.icons8.com/color/24/000000/adobe-photoshop.png"/> **Adobe Photoshop**: Aprimoro e retoco imagens com alta qualidade.
+- <img src="https://img.icons8.com/color/24/000000/davinci-resolve.png"/> **DaVinci Resolve**: Realizo correção de cores para uma estética visual atraente.
+- <img src="https://img.icons8.com/ios-filled/24/000000/sony-vegas.png"/> **Vegas Pro**: Edito vídeos, aplico efeitos e faço montagens precisas.
+- <img src="https://img.icons8.com/color/24/000000/vmix.png"/> **vMix**: Produzo e transmito conteúdos ao vivo, como eventos e webinars.
+- <img src="https://img.icons8.com/color/24/000000/obs-studio.png"/> **OBS Studio**: Crio e transmito lives com configurações personalizadas e alta qualidade.
+- <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png"/> **Visual Studio Code**: Desenvolvo páginas web e customizo plataformas LMS para uma experiência de usuário excepcional.
 
 Ao longo dos anos, adquiri uma sólida base de conhecimento e habilidades nessas ferramentas, o que me permite entregar resultados de alta qualidade e superar as expectativas dos clientes.
 
@@ -66,12 +66,11 @@ Ao longo dos anos, adquiri uma sólida base de conhecimento e habilidades nessas
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gilnei-laurindo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://gilneilaurindo.github.io/"><img src="https://img.shields.io/badge/-Portfólio-0000FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABFUlEQVR42mJcv27dv3//P2FlZeX5ZwBzwLkBqgZTgNkB8iVgplmTB4Bk0wE3o4ltOCLABNcRU4HKAAyxAKFvcTwHNCBVgIUgYrZAW7AkkBCsCeAPEGsQCkBoCsjlC5sBCMAYtjAN5ikPhBOAOdAGMgpAJyAJcAoxxwAIqgG4BaUF4GMLQ1woYg6gGhXwEYtoXYKIby1ArM/0wkyFuMXAAG2gdZYF6I8GBgYd5jQB5AAKQbI2DLAAh2ImDMADlsYZ9VGSxeBRz2AAnxtIiDQD2PyNmCJhYFoAWiY2DOAAA9bFIdmY2drBeDGyAxVJ6QDMi/MGCJjAC3sA+JJ6WBG0DrN8zUchEy7RmpWIGDgwM1LJgBuAuSASD6BEckDl4gBNUIAuYmoDF6E4z6A0SUigNlgBGpIp/gMl5p2sycDFAMAAAAASUVORK5CYII=&logoColor=white"></a>
+  <a href="https://gilneilaurindo.github.io/"><img src="https://img.shields.io/badge/-Portfólio-0000FF?style=for-the-badge&logo=internet-explorer&logoColor=white"></a>
   <a href="https://www.instagram.com/gilneycriative/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ---
 
 <div align="center">
-  <p>👾 Sempre criando e inovando. Vamos transformar ideias em realidade!</p>
-</div>
+  <p>👾 Sempre criando e inovando. Vamos transformar ideias em reali
