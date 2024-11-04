@@ -27,7 +27,7 @@
 
 Olá, sou Gilnei e sou um profissional com mais de 10 anos de experiência na área de audiovisual. Atualmente, sou **Designer** na empresa **Brisanet**, onde aplico minha expertise em diversos projetos.
 
-Ao longo da minha carreira, desenvolvi habilidades sólidas em várias áreas, incluindo **lives corporativas**, **edição de fotos e vídeos** e **desenvolvimento de páginas web**. Também sou especialista em **customização de plataformas LMS**. Com mais de 7 anos na Brisanet, atualmente exerço funções como **Designer** e **Assistente de RH**, onde minha criatividade e capacidade de escuta ativa são essenciais.
+Ao longo da minha carreira, desenvolvi habilidades sólidas em várias áreas, incluindo **lives corporativas**, **edição de fotos e vídeos** e **desenvolvimento de páginas web**. Também trabalho em **customização de plataformas LMS**. Com mais de 7 anos na Brisanet, atualmente exerço funções como **Designer e Audiovisual**, onde minha criatividade e capacidade de escuta ativa são essenciais.
 
 Meus conhecimentos avançados em **vMix** me permitem produzir conteúdos ao vivo de alto impacto, contribuindo significativamente para a comunicação e educação corporativa da empresa. Certificações em **boas práticas de videoaulas** e **Design Thinking** realçam minha busca contínua por aprimoramento e inovação. A segurança digital, garantida pela minha certificação da UniCesumar, é outro pilar do meu compromisso com a excelência.
 
